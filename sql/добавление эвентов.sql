@@ -4,8 +4,8 @@ insert into `tevent` (devent, sname, blogo, bhotel, osiformula, nBGColorR, nBGCo
 nFontColorR, nFontColorG, nFontColorB, sWelcomeText1, sWelcomeText2, sWelcomeText3, nidorg, nidlang)
 select '2015-11-01', sname, blogo, bhotel, osiformula, nBGColorR, nBGColorG, nBGColorB,
 nFontColorR, nFontColorG, nFontColorB, sWelcomeText1, sWelcomeText2, sWelcomeText3, nidorg, nidlang
-from tevent where nidevent = 27;
+from tevent where nidevent = 30;
 
 insert into `tevent` (sname, sWelcomeText1, sWelcomeText2, sWelcomeText3, nidorg, nidlang, nideventparent)
 select sname, sWelcomeText1, sWelcomeText2, sWelcomeText3, nidorg, nidlang, 71
-from tevent where nideventparent = 27;
+from tevent where nideventparent = 30;
