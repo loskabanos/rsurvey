@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 i ve add 1st line on home pc
 i ve add 3rd line from homepc
+=======
+i ve add 1st line on home pc
+>>>>>>> dce40924ec5a09b15450f57d01aeedb0aebd68a9
