@@ -1,2 +1,2 @@
 эту строчку я добавил с ноутбука
-this string i was added from home pc
+третья строка с ноутбука
